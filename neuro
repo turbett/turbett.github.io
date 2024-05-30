@@ -1,0 +1,17 @@
+LIMB MYOTOMES
+
+   R L
+C5 5 5 Elbow flexors
+C6 5 5 Wrist extensors
+C7 5 5 Elbow extensors
+C8 5 5 Finger flexors
+T1 5 5 Finger abductors (little finger)
+
+   R L
+L2 5 5 Hip flexors
+L3 5 5 Knee extensors
+L4 5 5 Ankle dorsiflexors
+L5 5 5 Long toe extensors
+S1 5 5 Ankle plantar flexors
+
+Voluntary anal contraction: Yes/No
